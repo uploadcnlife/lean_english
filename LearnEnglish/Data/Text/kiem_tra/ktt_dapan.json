@@ -1,0 +1,188 @@
+{
+    "A": {
+        "bai_1": {
+            "nghe": { "muc_1": "welcome to basic english" },
+            "noi": { "muc_1": "my name is alex" },
+            "doc": { "muc_1": "alphabet and phonics" },
+            "viet": { "muc_1": "write your name" }
+        },
+        "bai_2": {
+            "nghe": { "muc_1": "counting one to ten" },
+            "noi": { "muc_1": "i have two apples" },
+            "doc": { "muc_1": "numbers in daily life" },
+            "viet": { "muc_1": "list your favorite numbers" }
+        },
+        "bai_3": {
+            "nghe": { "muc_1": "family members introduction" },
+            "noi": { "muc_1": "this is my mother" },
+            "doc": { "muc_1": "a happy family story" },
+            "viet": { "muc_1": "describe your brother" }
+        },
+        "bai_4": {
+            "nghe": { "muc_1": "daily morning routine" },
+            "noi": { "muc_1": "i brush my teeth" },
+            "doc": { "muc_1": "a day at school" },
+            "viet": { "muc_1": "my breakfast menu" }
+        },
+        "bai_5": {
+            "nghe": { "muc_1": "common food and drinks" },
+            "noi": { "muc_1": "i like orange juice" },
+            "doc": { "muc_1": "healthy snacks" },
+            "viet": { "muc_1": "what is for lunch" }
+        },
+        "bai_6": {
+            "nghe": { "muc_1": "colors around us" },
+            "noi": { "muc_1": "the sky is blue" },
+            "doc": { "muc_1": "the rainbow colors" },
+            "viet": { "muc_1": "my favorite color" }
+        },
+        "bai_7": {
+            "nghe": { "muc_1": "clothes for winter" },
+            "noi": { "muc_1": "i wear a jacket" },
+            "doc": { "muc_1": "summer fashion" },
+            "viet": { "muc_1": "my new shoes" }
+        },
+        "bai_8": {
+            "nghe": { "muc_1": "animals at the zoo" },
+            "noi": { "muc_1": "the lion is big" },
+            "doc": { "muc_1": "pets at home" },
+            "viet": { "muc_1": "i love cats" }
+        },
+        "bai_9": {
+            "nghe": { "muc_1": "weather and seasons" },
+            "noi": { "muc_1": "it is a sunny day" },
+            "doc": { "muc_1": "winter activities" },
+            "viet": { "muc_1": "the rainy season" }
+        },
+        "bai_10": {
+            "nghe": { "muc_1": "hobbies and fun" },
+            "noi": { "muc_1": "i enjoy swimming" },
+            "doc": { "muc_1": "playing football" },
+            "viet": { "muc_1": "my guitar lesson" }
+        }
+    },
+    "B": {
+        "bai_1": {
+            "nghe": { "muc_1": "traveling abroad" },
+            "noi": { "muc_1": "booking a hotel room" },
+            "doc": { "muc_1": "airport procedures" },
+            "viet": { "muc_1": "my dream vacation" }
+        },
+        "bai_2": {
+            "nghe": { "muc_1": "job hunting tips" },
+            "noi": { "muc_1": "interview practice" },
+            "doc": { "muc_1": "resume building" },
+            "viet": { "muc_1": "formal email writing" }
+        },
+        "bai_3": {
+            "nghe": { "muc_1": "protecting environment" },
+            "noi": { "muc_1": "reducing plastic use" },
+            "doc": { "muc_1": "global warming news" },
+            "viet": { "muc_1": "recycling at home" }
+        },
+        "bai_4": {
+            "nghe": { "muc_1": "staying fit" },
+            "noi": { "muc_1": "healthy diet habits" },
+            "doc": { "muc_1": "mental health awareness" },
+            "viet": { "muc_1": "my workout plan" }
+        },
+        "bai_5": {
+            "nghe": { "muc_1": "new technology" },
+            "noi": { "muc_1": "using smartphones" },
+            "doc": { "muc_1": "the age of ai" },
+            "viet": { "muc_1": "tech blog post" }
+        },
+        "bai_6": {
+            "nghe": { "muc_1": "local festivals" },
+            "noi": { "muc_1": "traditional food" },
+            "doc": { "muc_1": "cultural heritage" },
+            "viet": { "muc_1": "holiday essay" }
+        },
+        "bai_7": {
+            "nghe": { "muc_1": "education system" },
+            "noi": { "muc_1": "university choice" },
+            "doc": { "muc_1": "scholarship guide" },
+            "viet": { "muc_1": "study motivation" }
+        },
+        "bai_8": {
+            "nghe": { "muc_1": "public transport" },
+            "noi": { "muc_1": "taking the subway" },
+            "doc": { "muc_1": "traffic congestion" },
+            "viet": { "muc_1": "road safety tips" }
+        },
+        "bai_9": {
+            "nghe": { "muc_1": "online shopping" },
+            "noi": { "muc_1": "comparing products" },
+            "doc": { "muc_1": "customer service" },
+            "viet": { "muc_1": "product complaint" }
+        },
+        "bai_10": {
+            "nghe": { "muc_1": "social media life" },
+            "noi": { "muc_1": "staying connected" },
+            "doc": { "muc_1": "internet privacy" },
+            "viet": { "muc_1": "vlogging basics" }
+        }
+    },
+    "C": {
+        "bai_1": {
+            "nghe": { "muc_1": "global economics" },
+            "noi": { "muc_1": "market analysis" },
+            "doc": { "muc_1": "financial crisis" },
+            "viet": { "muc_1": "economic report" }
+        },
+        "bai_2": {
+            "nghe": { "muc_1": "philosophy of life" },
+            "noi": { "muc_1": "ethical decisions" },
+            "doc": { "muc_1": "existentialism" },
+            "viet": { "muc_1": "theory critique" }
+        },
+        "bai_3": {
+            "nghe": { "muc_1": "medical research" },
+            "noi": { "muc_1": "genetic engineering" },
+            "doc": { "muc_1": "scientific journal" },
+            "viet": { "muc_1": "lab dissertation" }
+        },
+        "bai_4": {
+            "nghe": { "muc_1": "international law" },
+            "noi": { "muc_1": "court proceedings" },
+            "doc": { "muc_1": "legal reforms" },
+            "viet": { "muc_1": "legislative brief" }
+        },
+        "bai_5": {
+            "nghe": { "muc_1": "political systems" },
+            "noi": { "muc_1": "democratic debate" },
+            "doc": { "muc_1": "voting behavior" },
+            "viet": { "muc_1": "political essay" }
+        },
+        "bai_6": {
+            "nghe": { "muc_1": "classical literature" },
+            "noi": { "muc_1": "poetry analysis" },
+            "doc": { "muc_1": "literary devices" },
+            "viet": { "muc_1": "author profile" }
+        },
+        "bai_7": {
+            "nghe": { "muc_1": "behavioral psychology" },
+            "noi": { "muc_1": "cognitive therapy" },
+            "doc": { "muc_1": "brain functions" },
+            "viet": { "muc_1": "case study" }
+        },
+        "bai_8": {
+            "nghe": { "muc_1": "urban architecture" },
+            "noi": { "muc_1": "sustainable cities" },
+            "doc": { "muc_1": "infrastructure" },
+            "viet": { "muc_1": "design proposal" }
+        },
+        "bai_9": {
+            "nghe": { "muc_1": "history of fine arts" },
+            "noi": { "muc_1": "museum exhibition" },
+            "doc": { "muc_1": "art movements" },
+            "viet": { "muc_1": "exhibition review" }
+        },
+        "bai_10": {
+            "nghe": { "muc_1": "future technology" },
+            "noi": { "muc_1": "quantum computing" },
+            "doc": { "muc_1": "space colonization" },
+            "viet": { "muc_1": "research thesis" }
+        }
+    }
+}

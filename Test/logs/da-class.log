@@ -1,0 +1,39 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.3, pytest-9.0.3, pluggy-1.6.0
+rootdir: D:\PythonProject\Test\tests
+collected 26 items
+
+Test_da_class.py::test_lopkynang_init PASSED                             [  3%]
+Test_da_class.py::test_lopkynang_init_not_found PASSED                   [  7%]
+Test_da_class.py::test_hien_thi_cau_hoi PASSED                           [ 11%]
+Test_da_class.py::test_thuc_hien_muc_success PASSED                      [ 15%]
+Test_da_class.py::test_thuc_hien_muc_fail PASSED                         [ 19%]
+Test_da_class.py::test_run_success_both_levels PASSED                    [ 23%]
+Test_da_class.py::test_run_fail_first PASSED                             [ 26%]
+Test_da_class.py::test_lopnghe_muc1_generator PASSED                     [ 30%]
+Test_da_class.py::test_lopnghe_muc2_generator PASSED                     [ 34%]
+Test_da_class.py::test_lopnoi_init_with_mic PASSED                       [ 38%]
+Test_da_class.py::test_lopnoi_init_no_mic PASSED                         [ 42%]
+Test_da_class.py::test_lopnoi_thuc_hien_mic_success PASSED               [ 46%]
+Test_da_class.py::test_lopnoi_thuc_hien_fallback_input PASSED            [ 50%]
+Test_da_class.py::test_lopkiemtra_lay_du_lieu_bai PASSED                 [ 53%]
+Test_da_class.py::test_lopkiemtra_hoc_mot_bai_success PASSED             [ 57%]
+Test_da_class.py::test_lopkiemtra_hoc_mot_bai_fail PASSED                [ 61%]
+Test_da_class.py::test_lopkiemtra_back_flow PASSED                       [ 65%]
+Test_da_class.py::test_ghichu_them PASSED                                [ 69%]
+Test_da_class.py::test_ghichu_xem_lich_su PASSED                         [ 73%]
+Test_da_class.py::test_ghichu_xem_lich_su_no_file PASSED                 [ 76%]
+Test_da_class.py::test_nguphap_get_data_raw PASSED                       [ 80%]
+Test_da_class.py::test_nguphap_tim_kiem_nhanh_found PASSED               [ 84%]
+Test_da_class.py::test_nguphap_tim_kiem_nhanh_not_found PASSED           [ 88%]
+Test_da_class.py::test_nguphap_duyet_bai_hoc PASSED                      [ 92%]
+Test_da_class.py::test_nguphap_menu_choice1 PASSED                       [ 96%]
+Test_da_class.py::test_nguphap_menu_choice2 PASSED                       [100%]
+
+============================== warnings summary ===============================
+C:\Users\hanhnguyenngaisiali\AppData\Local\Programs\Python\Python313\Lib\site-packages\speech_recognition\__init__.py:7
+  C:\Users\hanhnguyenngaisiali\AppData\Local\Programs\Python\Python313\Lib\site-packages\speech_recognition\__init__.py:7: DeprecationWarning: aifc was removed in Python 3.13. Please be aware that you are currently NOT using standard 'aifc', but instead a separately installed 'standard-aifc'.
+    import aifc
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+======================== 26 passed, 1 warning in 0.27s ========================

@@ -1,0 +1,548 @@
+{
+    "A": {
+        "bai_1": {
+            "nghe": {
+                "muc_1": "Lucy: Hello.\nSchool librarian: Hello, what’s your name?\nLucy: My name’s Lucy.\nSchool librarian: And what’s your surname, Lucy?\nLucy: Moore.\nLucy: M-O-O-R-E.\nClass 1B",
+                "muc_2": "The mysterious character in the game is called lucatorn."
+            },
+            "noi": {
+                "muc_1": "Since I was young, i love coding.",
+                "muc_2": "In my opinion, automation is great for efficiency."
+            },
+            "doc": {
+                "muc_1": "My name is Anna. I live in a small house with my family. Every morning, I drink milk and go to school by bus. I like reading books in my free time.",
+                "muc_2": "I usually wake up at 6:30. After brushing my teeth, I eat breakfast with my sister. We often talk about school while eating. Then I walk to school because it is close to my house."
+            },
+            "viet": {
+                "muc_1": "Please explain the concept of unit testing.",
+                "muc_2": "Describe the stages of a software life cycle."
+            }
+        },
+        "bai_2": {
+            "nghe": {
+                "muc_1": "Shop assistant: Can I help you?\nCustomer: Yes, have you got this T-shirt in other colors?\nShop assistant: We’ve got it in white, black, red and purple. What size do you want?\nCustomer: Medium\nShop assistant: OK, in medium we’ve got black and red.\nCustomer: And in purple?\nShop assistant: No, just black and red.\nCustomer: OK, red. Can I try it on?\nShop assistant: Yes, of course. The changing rooms are over there.\nShop assistant: Is it OK?\nCustomer: Yes, I’ll take it.",
+                "muc_2": "Looking up, I saw nothing but a clear blue sky."
+            },
+            "noi": {
+                "muc_1": "I always say good morning teacher when I enter class.",
+                "muc_2": "Goodbye everyone, have a nice day."
+            },
+            "doc": {
+                "muc_1": "This is my dog. His name is Coco. He is brown and very friendly. I play with him in the park after school.",
+                "muc_2": "Many experts are worried about climate change."
+            },
+            "viet": {
+                "muc_1": "My best memory was my summer vacation.",
+                "muc_2": "Hiking is my favorite outdoor activity."
+            }
+        },
+        "bai_3": {
+            "nghe": {
+                "muc_1": "It's 10 AM, let's take a short coffee break.",
+                "muc_2": "I prefer my drinks to be sugar free."
+            },
+            "noi": {
+                "muc_1": "When I go to a cafe, i want a latte.",
+                "muc_2": "I'm in a hurry, so take away please."
+            },
+            "doc": {
+                "muc_1": "Can you pass me the drink menu?",
+                "muc_2": "All items are listed in the price list."
+            },
+            "viet": {
+                "muc_1": "The waiter is writing down the customer order.",
+                "muc_2": "Please choose your preferred payment method."
+            }
+        },
+        "bai_4": {
+            "nghe": {
+                "muc_1": "Please proceed to the airport gate immediately.",
+                "muc_2": "Don't forget to print your flight ticket."
+            },
+            "noi": {
+                "muc_1": "Excuse me, where is my luggage?",
+                "muc_2": "To pass security, show your passport please."
+            },
+            "doc": {
+                "muc_1": "Look at the screen for the flight schedule.",
+                "muc_2": "You need a boarding pass to enter the plane."
+            },
+            "viet": {
+                "muc_1": "I am making a travel plan for next month.",
+                "muc_2": "Check your email for the hotel booking confirmation."
+            }
+        },
+        "bai_5": {
+            "nghe": {
+                "muc_1": "I feel a bit nervous about my job interview.",
+                "muc_2": "Tell us about your previous work experience."
+            },
+            "noi": {
+                "muc_1": "The first question is: tell me about yourself.",
+                "muc_2": "Regarding technical skills, my strength is python."
+            },
+            "doc": {
+                "muc_1": "Read the job description to know the requirements.",
+                "muc_2": "I am researching the company profile on LinkedIn."
+            },
+            "viet": {
+                "muc_1": "Always attach a cover letter with your application.",
+                "muc_2": "A strong curriculum vitae will help you get hired."
+            }
+        },
+        "bai_6": {
+            "nghe": {
+                "muc_1": "Thousands of people attended the music festival.",
+                "muc_2": "He is a real guitar hero on stage."
+            },
+            "noi": {
+                "muc_1": "To be honest, i like pop music the most.",
+                "muc_2": "My brother wants to play the drum."
+            },
+            "doc": {
+                "muc_1": "I am reading the artist biography.",
+                "muc_2": "Our song reached the top hits chart."
+            },
+            "viet": {
+                "muc_1": "I need to write a concert review for the blog.",
+                "muc_2": "The violin is a beautiful musical instrument."
+            }
+        },
+        "bai_7": {
+            "nghe": {
+                "muc_1": "We should protect the green forest.",
+                "muc_2": "The world is shifting towards clean energy."
+            },
+            "noi": {
+                "muc_1": "Join hands to save the earth.",
+                "muc_2": "To improve the air, we must plant more trees."
+            },
+            "doc": {
+                "muc_1": "Scientists are warning about global warming.",
+                "muc_2": "Learning about the recycling process is important."
+            },
+            "viet": {
+                "muc_1": "Discuss the importance of nature protection.",
+                "muc_2": "Every citizen must follow the environmental law."
+            }
+        },
+        "bai_8": {
+            "nghe": {
+                "muc_1": "I'm going to watch the football match tonight.",
+                "muc_2": "Every player dreams of winning the world cup."
+            },
+            "noi": {
+                "muc_1": "After the game, I asked who is the winner.",
+                "muc_2": "Don't give up, keep it up!"
+            },
+            "doc": {
+                "muc_1": "I read the sport news every morning.",
+                "muc_2": "The coach is analyzing the player statistics."
+            },
+            "viet": {
+                "muc_1": "I need a new workout routine to stay fit.",
+                "muc_2": "Eating vegetables is part of a healthy lifestyle."
+            }
+        },
+        "bai_9": {
+            "nghe": {
+                "muc_1": "Modern students are used to online learning.",
+                "muc_2": "Click the link to join the zoom meeting."
+            },
+            "noi": {
+                "muc_1": "If you want to speak, turn on the mic.",
+                "muc_2": "To show your work, share your screen."
+            },
+            "doc": {
+                "muc_1": "This course is hosted on an e-learning platform.",
+                "muc_2": "You can download the digital textbook here."
+            },
+            "viet": {
+                "muc_1": "Let's start a group discussion about the topic.",
+                "muc_2": "Students must submit their final project on Friday."
+            }
+        },
+        "bai_10": {
+            "nghe": {
+                "muc_1": "Welcome to our graduation ceremony.",
+                "muc_2": "Please share with us your future goal."
+            },
+            "noi": {
+                "muc_1": "I am so happy because i passed the exam.",
+                "muc_2": "My motto is dream big stay humble."
+            },
+            "doc": {
+                "muc_1": "He finally received his university degree.",
+                "muc_2": "Finding a clear career path takes time."
+            },
+            "viet": {
+                "muc_1": "Teachers are preparing the achievement report.",
+                "muc_2": "Every entrepreneur has a unique success story."
+            }
+        }
+    },
+    "B": {
+        "bai_1": {
+            "nghe": {
+                "muc_1": "Morning, everyone. Quiet, please. Right, OK. So, today I’m going to give you some advice to help you prepare for the exams next week. So, make some notes as I’m talking, please. Everybody ready?\nNow, while you’re studying, eat food that gives you energy. Don’t be tempted to eat sweets or drink cola. Sugar won’t help you study but fruit and cereals will. Apples, actually, are especially good.\nFind a comfortable place with plenty of light when you study. But not ‘too’ comfortable or you’ll fall asleep!\nTry and keep a positive mind. It is easier to study when you are positive and relaxed. Now, if you start feeling anxious, have a little break. Go out for a stroll around the block.\nDon’t try to learn everything. There isn’t time. Just choose the ‘important’ things, the things that’ll get you the most points in an exam. And if you aren’t sure about this, ask me.\nFirst, learn the main ideas and don’t worry too much about the details. If you have time, you can come back later and read the details.\nMake notes of these key points and read them, then cover them up and try to remember all the points. Now, it might be boring, but repetition helps you to remember.\nUse past exam papers to study. They will help you understand what kind of questions come up. There are plenty of past exam papers in the library. You can photocopy them and take them home",
+                "muc_2": "The sunlight makes the water look like a golden river."
+            },
+            "noi": {
+                "muc_1": "Every evening, i love sunset by the beach.",
+                "muc_2": "Get your coats ready because winter is coming."
+            },
+            "doc": {
+                "muc_1": "I am reading a very emotional short story.",
+                "muc_2": "I always check the daily news on my phone."
+            },
+            "viet": {
+                "muc_1": "Start your letter with the phrase dear my friend.",
+                "muc_2": "I want to talk about my favorite hobby which is gardening."
+            }
+        },
+        "bai_2": {
+            "nghe": {
+                "muc_1": "I’d like to welcome Charles Long to the studio today. Charles has just published an article in the New Science journal about memorization. It’s all about how to make our memory function better.\nCharles, exam time is looming and there’ll be lots of teenagers tuning in today. Can you give us some advice about improving our ability to memorize?\nCharles: Hello! Yes, of course. I’d like to start by talking about the process of memorization. It’s vital that we understand the process if we want to make adjustments to the way we function. We all use memory in the same way. It doesn’t matter whether you’re a student revising for your finals or an adult standing in the aisle of a supermarket, trying to recall a particular item from a grocery list.\nMary: Ha ha! That’s me. I always forget to take my list.\nCharles: You and thousands of other people too, Mary. We learn to use our memory when we are still at nursery school. Young children are naturally very good at working out how to remember things. The tips I’m going to share today are based on the things we used to do to help us remember when we were children. The process of memorization occurs in two distinct forms. Do you know what they are?\nMary:  Are they ‘long-term memory’ and ‘short-term memory’?\nCharles: That’s right! But these aren’t completely separate concepts. We use a combination of both types of memory when we want to formulate our thoughts and recall information, whether we’re trying to remember something from a decade ago or just an hour earlier.",
+                "muc_2": "Many strange creatures live in the deep sea."
+            },
+            "noi": {
+                "muc_1": "The water is perfect, let's go swimming.",
+                "muc_2": "Look at the fish swimming near the boat."
+            },
+            "doc": {
+                "muc_1": "This documentary is about diverse marine life.",
+                "muc_2": "Divers must be careful not to damage the coral reef."
+            },
+            "viet": {
+                "muc_1": "I am planning for my next summer holiday.",
+                "muc_2": "We are going on an exciting island trip."
+            }
+        },
+        "bai_3": {
+            "nghe": {
+                "muc_1": "You can reach the city faster by taking the fast train.",
+                "muc_2": "Meet me at the bus stop near the park."
+            },
+            "noi": {
+                "muc_1": "Excuse me, where is the station?",
+                "muc_2": "You need to buy a ticket before boarding."
+            },
+            "doc": {
+                "muc_1": "Use the city map so you won't get lost.",
+                "muc_2": "Please check the time table for the next departure."
+            },
+            "viet": {
+                "muc_1": "I will write a blog post about my journey.",
+                "muc_2": "Taking public transport helps reduce pollution."
+            }
+        },
+        "bai_4": {
+            "nghe": {
+                "muc_1": "Snow White ate a poisoned red apple.",
+                "muc_2": "These purple fruits are such a sweet grape."
+            },
+            "noi": {
+                "muc_1": "To stay healthy, i like fruit every day.",
+                "muc_2": "Nothing is better than a glass of fresh orange juice."
+            },
+            "doc": {
+                "muc_1": "The restaurant offers a very healthy menu.",
+                "muc_2": "Fruits are a great vitamin source for our body."
+            },
+            "viet": {
+                "muc_1": "I am preparing a grocery list for the weekend.",
+                "muc_2": "I prefer buying vegetables at the farm market."
+            }
+        },
+        "bai_5": {
+            "nghe": {
+                "muc_1": "In the future, every house will have a smart robot.",
+                "muc_2": "The astronauts are boarding the space ship."
+            },
+            "noi": {
+                "muc_1": "It's strange to talk to machine like a human.",
+                "muc_2": "Humans are dreaming of flying to mars."
+            },
+            "doc": {
+                "muc_1": "I love reading science fiction about aliens.",
+                "muc_2": "Keep yourself updated with the latest future tech."
+            },
+            "viet": {
+                "muc_1": "The scientist just announced a new invention.",
+                "muc_2": "Maybe one day we can enjoy galaxy travel."
+            }
+        },
+        "bai_6": {
+            "nghe": {
+                "muc_1": "A little bird is singing on the tree branch.",
+                "muc_2": "They are best friends just like cat and dog."
+            },
+            "noi": {
+                "muc_1": "Don't forget to feed my pet while I'm away.",
+                "muc_2": "Oh, look at that so cute animal over there."
+            },
+            "doc": {
+                "muc_1": "Reading this book will teach you about pet care.",
+                "muc_2": "Welcome to the wonders of the animal world."
+            },
+            "viet": {
+                "muc_1": "I will describe a day with my puppy.",
+                "muc_2": "We had a great time during our zoo visit."
+            }
+        },
+        "bai_7": {
+            "nghe": {
+                "muc_1": "I am going to my first piano lesson.",
+                "muc_2": "I can't sleep because of that loud drum."
+            },
+            "noi": {
+                "muc_1": "My dream is to play the guitar in a band.",
+                "muc_2": "Let's gather around and sing a song."
+            },
+            "doc": {
+                "muc_1": "A musician must know how to read a music note.",
+                "muc_2": "Who is your favorite famous band?"
+            },
+            "viet": {
+                "muc_1": "My first experience at a rock concert was loud.",
+                "muc_2": "The violinist played a very slow melody."
+            }
+        },
+        "bai_8": {
+            "nghe": {
+                "muc_1": "On a cold day, nothing beats a bowl of hot soup.",
+                "muc_2": "Be careful, this is a very spicy noodle."
+            },
+            "noi": {
+                "muc_1": "Thank you for such a delicious meal.",
+                "muc_2": "Let's find something to eat, I am hungry now."
+            },
+            "doc": {
+                "muc_1": "Follow this food recipe to cook a perfect steak.",
+                "muc_2": "Look at the restaurant menu to choose your dish."
+            },
+            "viet": {
+                "muc_1": "My family usually gathers at dinner time.",
+                "muc_2": "I am planning to join a cooking class."
+            }
+        },
+        "bai_9": {
+            "nghe": {
+                "muc_1": "The ghost is said to live in that old castle.",
+                "muc_2": "Once upon a time, there lived a king and queen."
+            },
+            "noi": {
+                "muc_1": "This story happened a long time ago.",
+                "muc_2": "My grandmother used to tell a legend to me."
+            },
+            "doc": {
+                "muc_1": "You can find this information in any history book.",
+                "muc_2": "This is a fragment of an ancient wall."
+            },
+            "viet": {
+                "muc_1": "I am writing a mystery story about a lost city.",
+                "muc_2": "If only I had a time machine to see the past."
+            }
+        },
+        "bai_10": {
+            "nghe": {
+                "muc_1": "It is very noisy living in a big city.",
+                "muc_2": "I work in that tall building over there."
+            },
+            "noi": {
+                "muc_1": "I am late for work because of the heavy traffic.",
+                "muc_2": "The city becomes alive with the night life."
+            },
+            "doc": {
+                "muc_1": "You must try the street food in Vietnam.",
+                "muc_2": "I'm going to the shopping mall to buy new clothes."
+            },
+            "viet": {
+                "muc_1": "We will meet at the town center at 7 PM.",
+                "muc_2": "The subway is always full of busy people."
+            }
+        }
+    },
+    "C": {
+        "bai_1": {
+            "nghe": {
+                "muc_1": "I couldn't sleep at all during the rainy midnight.",
+                "muc_2": "The loud thunder sound made the children scared."
+            },
+            "noi": {
+                "muc_1": "It is starting to rain, please close the window.",
+                "muc_2": "The weather is too bad, we should stay at home."
+            },
+            "doc": {
+                "muc_1": "The government just issued a severe weather alert.",
+                "muc_2": "You should read the handbook about storm safety."
+            },
+            "viet": {
+                "muc_1": "Write a short essay about your rainy day memory.",
+                "muc_2": "I love drinking hot chocolate in a cozy atmosphere."
+            }
+        },
+        "bai_2": {
+            "nghe": {
+                "muc_1": "You must show your library card to enter.",
+                "muc_2": "Please keep quiet because this is a silent zone."
+            },
+            "noi": {
+                "muc_1": "I am going to the shelf to find a book.",
+                "muc_2": "Can I borrow for a week or just three days?"
+            },
+            "doc": {
+                "muc_1": "This shelf is for literature classic masterpieces.",
+                "muc_2": "I am researching data from a science journal."
+            },
+            "viet": {
+                "muc_1": "Tell me about the life of your favorite author.",
+                "muc_2": "Developing a reading habit will expand your mind."
+            }
+        },
+        "bai_3": {
+            "nghe": {
+                "muc_1": "I have been a gym member for two years.",
+                "muc_2": "Be careful when you do heavy lifting exercises."
+            },
+            "noi": {
+                "muc_1": "Let's join the class to do some yoga.",
+                "muc_2": "We exercise regularly to keep our health."
+            },
+            "doc": {
+                "muc_1": "You should follow a professional workout routine.",
+                "muc_2": "Building muscle requires a high protein diet."
+            },
+            "viet": {
+                "muc_1": "My biggest fitness goal is to lose five kilograms.",
+                "muc_2": "I feel energized after my morning exercise."
+            }
+        },
+        "bai_4": {
+            "nghe": {
+                "muc_1": "The artist is cleaning his painting brush.",
+                "muc_2": "This portrait was created using oil color."
+            },
+            "noi": {
+                "muc_1": "I will try to draw a picture of the landscape.",
+                "muc_2": "I truly believe that art is life."
+            },
+            "doc": {
+                "muc_1": "There is a new exhibition at the museum gallery.",
+                "muc_2": "Read the artist profile before viewing the works."
+            },
+            "viet": {
+                "muc_1": "My childhood was full of a colorful dream.",
+                "muc_2": "This statue is considered a world master piece."
+            }
+        },
+        "bai_5": {
+            "nghe": {
+                "muc_1": "All students must wear a school uniform.",
+                "muc_2": "I am studying hard for the final term exam."
+            },
+            "noi": {
+                "muc_1": "It's 7 AM, time to go to class.",
+                "muc_2": "We must study hard today for a better tomorrow."
+            },
+            "doc": {
+                "muc_1": "Read the student handbook for school policies.",
+                "muc_2": "The teacher is preparing the lesson plan."
+            },
+            "viet": {
+                "muc_1": "Write a letter to your best friend at school.",
+                "muc_2": "Every student must follow the classroom rule."
+            }
+        },
+        "bai_6": {
+            "nghe": {
+                "muc_1": "Follow the forest trail to reach the waterfall.",
+                "muc_2": "The valley is covered with beautiful wild flowers."
+            },
+            "noi": {
+                "muc_1": "This weekend, let's go for hiking.",
+                "muc_2": "I love breathing the fresh mountain air."
+            },
+            "doc": {
+                "muc_1": "Bring this camping guide for your trip.",
+                "muc_2": "You need to learn survival skill in the woods."
+            },
+            "viet": {
+                "muc_1": "I was amazed by the majestic mountain view.",
+                "muc_2": "We are planning a short weekend trip."
+            }
+        },
+        "bai_7": {
+            "nghe": {
+                "muc_1": "I forgot my laptop charger at the office.",
+                "muc_2": "My wireless mouse is running out of battery."
+            },
+            "noi": {
+                "muc_1": "I have practiced to type very fast.",
+                "muc_2": "The developer is trying to fix the bug."
+            },
+            "doc": {
+                "muc_1": "Please wait for the latest software update.",
+                "muc_2": "Check the hardware spec before buying a PC."
+            },
+            "viet": {
+                "muc_1": "You need to understand basic coding logic.",
+                "muc_2": "Call tech support if the system crashes."
+            }
+        },
+        "bai_8": {
+            "nghe": {
+                "muc_1": "Don't forget to order the birthday cake.",
+                "muc_2": "The room is decorated with many party balloon items."
+            },
+            "noi": {
+                "muc_1": "It's time to blow the candle.",
+                "muc_2": "Close your eyes and make a wish."
+            },
+            "doc": {
+                "muc_1": "I am checking the names on the guest list.",
+                "muc_2": "We should send out the invitation card early."
+            },
+            "viet": {
+                "muc_1": "I received a very special surprise gift.",
+                "muc_2": "We always have a big family party on Sundays."
+            }
+        },
+        "bai_9": {
+            "nghe": {
+                "muc_1": "The garden looks beautiful under the moon light.",
+                "muc_2": "Look up, I see a very bright star."
+            },
+            "noi": {
+                "muc_1": "Use the telescope to look at planets.",
+                "muc_2": "It is fascinating to watch the sky at night."
+            },
+            "doc": {
+                "muc_1": "I usually read astronomy news on the website.",
+                "muc_2": "Earth is one of the planets in our solar system."
+            },
+            "viet": {
+                "muc_1": "The astronauts are preparing for a space mission.",
+                "muc_2": "Do you believe in the existence of alien life?"
+            }
+        },
+        "bai_10": {
+            "nghe": {
+                "muc_1": "I like buying vegetables at the farmers market.",
+                "muc_2": "Pick some fresh tomato for the salad."
+            },
+            "noi": {
+                "muc_1": "Go to the grocery store to buy some eggs.",
+                "muc_2": "I always prefer to use a local product."
+            },
+            "doc": {
+                "muc_1": "This milk comes from a certified organic farm.",
+                "muc_2": "Please check the price tag before paying."
+            },
+            "viet": {
+                "muc_1": "I am making a list for healthy grocery.",
+                "muc_2": "I want to experience the peaceful village life."
+            }
+        }
+    }
+}

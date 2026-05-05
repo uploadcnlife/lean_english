@@ -1,0 +1,548 @@
+{
+    "A": {
+        "bai_1": {
+            "nghe": {
+                "muc_1": "lucky học lớp nào?",
+                "muc_2": "Nhân vật bí ẩn trong trò chơi được gọi là lucatorn."
+            },
+            "noi": {
+                "muc_1": "Từ khi còn trẻ, tôi đã yêu thích lập trình.",
+                "muc_2": "Theo ý kiến của tôi, tự động hóa rất tuyệt vời cho hiệu quả công việc."
+            },
+            "doc": {
+                "muc_1": "Tôi tên là Anna. Tôi sống trong một ngôi nhà nhỏ cùng gia đình. Mỗi sáng, tôi uống sữa và đi học bằng xe buýt. .....",
+                "muc_2": ".....Sau khi đánh răng, tôi ăn sáng cùng chị gái. Chúng tôi thường nói chuyện về trường học khi ăn. Sau đó tôi đi bộ đến trường vì nó gần nhà."
+            },
+            "viet": {
+                "muc_1": "Vui lòng giải thích khái niệm kiểm thử đơn vị (unit testing).",
+                "muc_2": "Hãy mô tả các giai đoạn của một vòng đời phần mềm."
+            }
+        },
+        "bai_2": {
+            "nghe": {
+                "muc_1": "màu khách chọn là màu gì?",
+                "muc_2": "Nhìn lên, tôi không thấy gì ngoài một bầu trời xanh trong vắt."
+            },
+            "noi": {
+                "muc_1": "Tôi luôn chào giáo viên khi bước vào lớp.",
+                "muc_2": "Tạm biệt mọi người, chúc một ngày tốt lành."
+            },
+            "doc": {
+                "muc_1": "Kiểm tra dự báo thời tiết trước khi đi ra ngoài.",
+                "muc_2": "Nhiều chuyên gia đang lo lắng về biến đổi khí hậu."
+            },
+            "viet": {
+                "muc_1": "Kỷ niệm đẹp nhất của tôi là kỳ nghỉ hè vừa qua.",
+                "muc_2": "Đi bộ đường dài là hoạt động ngoài trời yêu thích của tôi."
+            }
+        },
+        "bai_3": {
+            "nghe": {
+                "muc_1": "Bây giờ là 10 giờ sáng, chúng ta hãy nghỉ giải lao uống cà phê một lát.",
+                "muc_2": "Tôi thích đồ uống của mình không đường."
+            },
+            "noi": {
+                "muc_1": "Khi đi cà phê, tôi muốn một ly latte.",
+                "muc_2": "Tôi đang vội, vì vậy vui lòng cho tôi mang đi."
+            },
+            "doc": {
+                "muc_1": "Bạn có thể đưa cho tôi thực đơn đồ uống được không?",
+                "muc_2": "Tất cả các mặt hàng đều được liệt kê trong bảng giá."
+            },
+            "viet": {
+                "muc_1": "Người bồi bàn đang ghi lại đơn hàng của khách hàng.",
+                "muc_2": "Vui lòng chọn phương thức thanh toán ưu tiên của bạn."
+            }
+        },
+        "bai_4": {
+            "nghe": {
+                "muc_1": "Vui lòng đi đến cửa sân bay ngay lập tức.",
+                "muc_2": "Đừng quên in vé máy bay của bạn."
+            },
+            "noi": {
+                "muc_1": "Xin lỗi, hành lý của tôi ở đâu?",
+                "muc_2": "Để qua cổng an ninh, vui lòng xuất trình hộ chiếu của bạn."
+            },
+            "doc": {
+                "muc_1": "Nhìn vào màn hình để xem lịch trình chuyến bay.",
+                "muc_2": "Bạn cần thẻ lên máy bay để lên máy bay."
+            },
+            "viet": {
+                "muc_1": "Tôi đang lập kế hoạch du lịch cho tháng tới.",
+                "muc_2": "Kiểm tra email của bạn để xem xác nhận đặt phòng khách sạn."
+            }
+        },
+        "bai_5": {
+            "nghe": {
+                "muc_1": "Tôi cảm thấy hơi lo lắng về buổi phỏng vấn xin việc của mình.",
+                "muc_2": "Hãy kể cho chúng tôi về kinh nghiệm làm việc trước đây của bạn."
+            },
+            "noi": {
+                "muc_1": "Câu hỏi đầu tiên là: hãy giới thiệu về bản thân bạn.",
+                "muc_2": "Về kỹ năng kỹ thuật, thế mạnh của tôi là Python."
+            },
+            "doc": {
+                "muc_1": "Đọc mô tả công việc để biết các yêu cầu.",
+                "muc_2": "Tôi đang tìm hiểu hồ sơ công ty trên LinkedIn."
+            },
+            "viet": {
+                "muc_1": "Luôn đính kèm thư xin việc (cover letter) cùng với hồ sơ của bạn.",
+                "muc_2": "Một bản sơ yếu lý lịch (CV) ấn tượng sẽ giúp bạn được tuyển dụng."
+            }
+        },
+        "bai_6": {
+            "nghe": {
+                "muc_1": "Hàng ngàn người đã tham dự lễ hội âm nhạc.",
+                "muc_2": "Anh ấy thực sự là một anh hùng guitar trên sân khấu."
+            },
+            "noi": {
+                "muc_1": "Thành thật mà nói, tôi thích nhạc pop nhất.",
+                "muc_2": "Anh trai tôi muốn chơi trống."
+            },
+            "doc": {
+                "muc_1": "Tôi đang đọc tiểu sử của nghệ sĩ.",
+                "muc_2": "Bài hát của chúng tôi đã lọt vào bảng xếp hạng các bài hát hàng đầu."
+            },
+            "viet": {
+                "muc_1": "Tôi cần viết một bài đánh giá buổi hòa nhạc cho blog.",
+                "muc_2": "Đàn violin là một nhạc cụ đẹp."
+            }
+        },
+        "bai_7": {
+            "nghe": {
+                "muc_1": "Chúng ta nên bảo vệ rừng xanh.",
+                "muc_2": "Thế giới đang chuyển hướng sang năng lượng sạch."
+            },
+            "noi": {
+                "muc_1": "Hãy chung tay bảo vệ trái đất.",
+                "muc_2": "Để cải thiện không khí, chúng ta phải trồng thêm nhiều cây xanh."
+            },
+            "doc": {
+                "muc_1": "Các nhà khoa học đang cảnh báo về sự nóng lên toàn cầu.",
+                "muc_2": "Tìm hiểu về quy trình tái chế là rất quan trọng."
+            },
+            "viet": {
+                "muc_1": "Thảo luận về tầm quan trọng của việc bảo vệ thiên nhiên.",
+                "muc_2": "Mỗi công dân phải tuân thủ luật môi trường."
+            }
+        },
+        "bai_8": {
+            "nghe": {
+                "muc_1": "Tôi định xem trận bóng đá tối nay.",
+                "muc_2": "Mọi cầu thủ đều mơ ước giành được World Cup."
+            },
+            "noi": {
+                "muc_1": "Sau trận đấu, tôi đã hỏi ai là người chiến thắng.",
+                "muc_2": "Đừng bỏ cuộc, cố gắng lên!"
+            },
+            "doc": {
+                "muc_1": "Tôi đọc tin tức thể thao mỗi sáng.",
+                "muc_2": "Huấn luyện viên đang phân tích số liệu thống kê của cầu thủ."
+            },
+            "viet": {
+                "muc_1": "Tôi cần một lộ trình tập luyện mới để giữ dáng.",
+                "muc_2": "Ăn rau là một phần của lối sống lành mạnh."
+            }
+        },
+        "bai_9": {
+            "nghe": {
+                "muc_1": "Sinh viên hiện đại đã quen với việc học trực tuyến.",
+                "muc_2": "Nhấp vào liên kết để tham gia cuộc họp Zoom."
+            },
+            "noi": {
+                "muc_1": "Nếu bạn muốn nói, hãy bật mic lên.",
+                "muc_2": "Để trình bày bài làm, hãy chia sẻ màn hình của bạn."
+            },
+            "doc": {
+                "muc_1": "Khóa học này được tổ chức trên một nền tảng học tập trực tuyến (e-learning).",
+                "muc_2": "Bạn có thể tải sách giáo khoa kỹ thuật số tại đây."
+            },
+            "viet": {
+                "muc_1": "Hãy bắt đầu một cuộc thảo luận nhóm về chủ đề này.",
+                "muc_2": "Sinh viên phải nộp dự án cuối khóa vào thứ Sáu."
+            }
+        },
+        "bai_10": {
+            "nghe": {
+                "muc_1": "Chào mừng bạn đến với lễ tốt nghiệp của chúng tôi.",
+                "muc_2": "Hãy chia sẻ với chúng tôi mục tiêu tương lai của bạn."
+            },
+            "noi": {
+                "muc_1": "Tôi rất hạnh phúc vì đã vượt qua kỳ thi.",
+                "muc_2": "Phương châm của tôi là mơ lớn và luôn khiêm tốn."
+            },
+            "doc": {
+                "muc_1": "Cuối cùng anh ấy đã nhận được bằng đại học.",
+                "muc_2": "Tìm kiếm một con đường sự nghiệp rõ ràng cần có thời gian."
+            },
+            "viet": {
+                "muc_1": "Các giáo viên đang chuẩn bị báo cáo thành tích.",
+                "muc_2": "Mỗi doanh nhân đều có một câu chuyện thành công độc nhất."
+            }
+        }
+    },
+    "B": {
+        "bai_1": {
+            "nghe": {
+                "muc_1": "phương pháp giúp ghi nhớ?.",
+                "muc_2": "Ánh nắng khiến dòng nước trông giống như một dòng sông vàng."
+            },
+            "noi": {
+                "muc_1": "Mỗi buổi tối, tôi đều thích ngắm hoàng hôn bên bờ biển.",
+                "muc_2": "Hãy chuẩn bị sẵn áo khoác vì mùa đông đang đến rồi."
+            },
+            "doc": {
+                "muc_1": "Tôi đang đọc một câu chuyện ngắn rất cảm động.",
+                "muc_2": "Tôi luôn kiểm tra tin tức hàng ngày trên điện thoại của mình."
+            },
+            "viet": {
+                "muc_1": "Hãy bắt đầu bức thư của bạn bằng cụm từ \"gửi người bạn thân của tôi\".",
+                "muc_2": "Tôi muốn nói về sở thích yêu thích của mình là làm vườn."
+            }
+        },
+        "bai_2": {
+            "nghe": {
+                "muc_1": "Trong bài ngoài trí nhớ dài hạn, còn loại trí nhớ nào khác?.",
+                "muc_2": "Nhiều sinh vật kỳ lạ sống dưới biển sâu."
+            },
+            "noi": {
+                "muc_1": "Nước rất tuyệt, chúng ta đi bơi thôi nào.",
+                "muc_2": "Hãy nhìn những con cá đang bơi gần con thuyền kìa."
+            },
+            "doc": {
+                "muc_1": "Bộ phim tài liệu này nói về đời sống sinh vật biển đa dạng.",
+                "muc_2": "Các thợ lặn phải cẩn thận để không làm hỏng rạn san hô."
+            },
+            "viet": {
+                "muc_1": "Tôi đang lập kế hoạch cho kỳ nghỉ hè sắp tới của mình.",
+                "muc_2": "Chúng tôi sẽ có một chuyến đi đảo đầy thú vị."
+            }
+        },
+        "bai_3": {
+            "nghe": {
+                "muc_1": "Bạn có thể đến thành phố nhanh hơn bằng cách đi tàu cao tốc.",
+                "muc_2": "Hãy gặp tôi tại điểm dừng xe buýt gần công viên."
+            },
+            "noi": {
+                "muc_1": "Xin lỗi, nhà ga ở đâu vậy?",
+                "muc_2": "Bạn cần mua vé trước khi lên tàu."
+            },
+            "doc": {
+                "muc_1": "Hãy sử dụng bản đồ thành phố để bạn không bị lạc.",
+                "muc_2": "Vui lòng kiểm tra thời gian biểu cho chuyến khởi hành tiếp theo."
+            },
+            "viet": {
+                "muc_1": "Tôi sẽ viết một bài blog về hành trình của mình.",
+                "muc_2": "Sử dụng phương tiện giao thông công cộng giúp giảm thiểu ô nhiễm."
+            }
+        },
+        "bai_4": {
+            "nghe": {
+                "muc_1": "Nàng Bạch Tuyết đã ăn một quả táo đỏ có độc.",
+                "muc_2": "Những loại quả màu tím này đúng là những quả nho ngọt ngào."
+            },
+            "noi": {
+                "muc_1": "Để giữ sức khỏe, tôi thích ăn trái cây mỗi ngày.",
+                "muc_2": "Không có gì tốt hơn một ly nước cam tươi."
+            },
+            "doc": {
+                "muc_1": "Nhà hàng cung cấp một thực đơn rất lành mạnh.",
+                "muc_2": "Trái cây là nguồn cung cấp vitamin tuyệt vời cho cơ thể chúng ta."
+            },
+            "viet": {
+                "muc_1": "Tôi đang chuẩn bị danh sách đi chợ cho cuối tuần.",
+                "muc_2": "Tôi thích mua rau củ ở chợ nông sản hơn."
+            }
+        },
+        "bai_5": {
+            "nghe": {
+                "muc_1": "Trong tương lai, mọi ngôi nhà sẽ có một robot thông minh.",
+                "muc_2": "Các phi hành gia đang bước lên tàu vũ trụ."
+            },
+            "noi": {
+                "muc_1": "Thật lạ khi nói chuyện với máy móc như với con người.",
+                "muc_2": "Con người đang mơ về việc bay đến sao Hỏa."
+            },
+            "doc": {
+                "muc_1": "Tôi thích đọc truyện khoa học viễn tưởng về người ngoài hành tinh.",
+                "muc_2": "Hãy luôn cập nhật những công nghệ tương lai mới nhất."
+            },
+            "viet": {
+                "muc_1": "Nhà khoa học vừa công bố một phát minh mới.",
+                "muc_2": "Có lẽ một ngày nào đó chúng ta có thể tận hưởng chuyến du hành thiên hà."
+            }
+        },
+        "bai_6": {
+            "nghe": {
+                "muc_1": "Một chú chim nhỏ đang hót trên cành cây.",
+                "muc_2": "Chúng là những người bạn thân nhất giống như chó và mèo vậy."
+            },
+            "noi": {
+                "muc_1": "Đừng quên cho thú cưng của tôi ăn trong khi tôi đi vắng nhé.",
+                "muc_2": "Ô kìa, nhìn con vật đáng yêu đằng kia kìa."
+            },
+            "doc": {
+                "muc_1": "Đọc cuốn sách này sẽ dạy bạn cách chăm sóc thú cưng.",
+                "muc_2": "Chào mừng bạn đến với những kỳ quan của thế giới động vật."
+            },
+            "viet": {
+                "muc_1": "Tôi sẽ kể về một ngày bên chú chó con của mình.",
+                "muc_2": "Chúng tôi đã có một khoảng thời gian tuyệt vời trong chuyến tham quan sở thú."
+            }
+        },
+        "bai_7": {
+            "nghe": {
+                "muc_1": "Tôi chuẩn bị đi học buổi học piano đầu tiên.",
+                "muc_2": "Tôi không thể ngủ được vì tiếng trống ồn ào đó."
+            },
+            "noi": {
+                "muc_1": "Ước mơ của tôi là chơi guitar trong một ban nhạc.",
+                "muc_2": "Hãy cùng quây quần lại và hát một bài hát nào."
+            },
+            "doc": {
+                "muc_1": "Một nhạc sĩ phải biết cách đọc nốt nhạc.",
+                "muc_2": "Ban nhạc nổi tiếng yêu thích của bạn là ai?"
+            },
+            "viet": {
+                "muc_1": "Trải nghiệm đầu tiên của tôi tại một buổi hòa nhạc rock thật ồn ào.",
+                "muc_2": "Nghệ sĩ vĩ cầm đã chơi một giai điệu rất chậm rãi."
+            }
+        },
+        "bai_8": {
+            "nghe": {
+                "muc_1": "Vào một ngày lạnh giá, không gì tuyệt hơn một bát súp nóng.",
+                "muc_2": "Hãy cẩn thận, đây là một loại mì rất cay."
+            },
+            "noi": {
+                "muc_1": "Cảm ơn vì một bữa ăn ngon như thế này.",
+                "muc_2": "Hãy tìm thứ gì đó để ăn đi, tôi đang đói rồi."
+            },
+            "doc": {
+                "muc_1": "Hãy làm theo công thức nấu ăn này để có món bít tết hoàn hảo.",
+                "muc_2": "Hãy nhìn vào thực đơn của nhà hàng để chọn món ăn của bạn."
+            },
+            "viet": {
+                "muc_1": "Gia đình tôi thường quây quần vào giờ ăn tối.",
+                "muc_2": "Tôi đang dự định tham gia một lớp học nấu ăn."
+            }
+        },
+        "bai_9": {
+            "nghe": {
+                "muc_1": "Người ta kể rằng hồn ma sống trong tòa lâu đài cổ đó.",
+                "muc_2": "Ngày xửa ngày xưa, có một vị vua và hoàng hậu chung sống."
+            },
+            "noi": {
+                "muc_1": "Câu chuyện này đã xảy ra từ cách đây rất lâu rồi.",
+                "muc_2": "Bà tôi thường kể một truyền thuyết cho tôi nghe."
+            },
+            "doc": {
+                "muc_1": "Bạn có thể tìm thấy thông tin này trong bất kỳ cuốn sách lịch sử nào.",
+                "muc_2": "Đây là một mảnh vỡ của một bức tường cổ."
+            },
+            "viet": {
+                "muc_1": "Tôi đang viết một câu chuyện bí ẩn về một thành phố bị mất tích.",
+                "muc_2": "Giá như tôi có một cỗ máy thời gian để nhìn về quá khứ."
+            }
+        },
+        "bai_10": {
+            "nghe": {
+                "muc_1": "Sống ở một thành phố lớn rất ồn ào.",
+                "muc_2": "Tôi làm việc trong tòa nhà cao tầng đằng kia."
+            },
+            "noi": {
+                "muc_1": "Tôi bị trễ làm vì tắc đường.",
+                "muc_2": "Thành phố trở nên sống động với cuộc sống về đêm."
+            },
+            "doc": {
+                "muc_1": "Bạn nhất định phải thử món ăn đường phố ở Việt Nam.",
+                "muc_2": "Tôi định đi trung tâm thương mại để mua quần áo mới."
+            },
+            "viet": {
+                "muc_1": "Chúng ta sẽ gặp nhau tại trung tâm thị trấn lúc 7 giờ tối.",
+                "muc_2": "Tàu điện ngầm luôn đầy những người bận rộn."
+            }
+        }
+    },
+    "C": {
+        "bai_1": {
+            "nghe": {
+                "muc_1": "Tôi hoàn toàn không thể ngủ được trong suốt đêm khuya mưa gió.",
+                "muc_2": "Tiếng sấm lớn làm lũ trẻ sợ hãi."
+            },
+            "noi": {
+                "muc_1": "Trời bắt đầu mưa rồi, làm ơn hãy đóng cửa sổ lại.",
+                "muc_2": "Thời tiết quá tệ, chúng ta nên ở nhà."
+            },
+            "doc": {
+                "muc_1": "Chính phủ vừa ban hành cảnh báo thời tiết khắc nghiệt.",
+                "muc_2": "Bạn nên đọc sổ tay về an toàn trong bão."
+            },
+            "viet": {
+                "muc_1": "Hãy viết một bài văn ngắn về kỷ niệm một ngày mưa của bạn.",
+                "muc_2": "Tôi thích uống sô-cô-la nóng trong một không gian ấm cúng."
+            }
+        },
+        "bai_2": {
+            "nghe": {
+                "muc_1": "Bạn phải xuất trình thẻ thư viện để đi vào.",
+                "muc_2": "Vui lòng giữ yên lặng vì đây là khu vực im lặng."
+            },
+            "noi": {
+                "muc_1": "Tôi đang đi đến kệ sách để tìm một cuốn sách.",
+                "muc_2": "Tôi có thể mượn trong một tuần hay chỉ ba ngày thôi?"
+            },
+            "doc": {
+                "muc_1": "Kệ này dành cho các tác phẩm văn học kinh điển kiệt tác.",
+                "muc_2": "Tôi đang nghiên cứu dữ liệu từ một tạp chí khoa học."
+            },
+            "viet": {
+                "muc_1": "Hãy kể cho tôi về cuộc đời của tác giả yêu thích của bạn.",
+                "muc_2": "Phát triển thói quen đọc sách sẽ mở mang trí tuệ của bạn."
+            }
+        },
+        "bai_3": {
+            "nghe": {
+                "muc_1": "Tôi đã là thành viên phòng gym được hai năm rồi.",
+                "muc_2": "Hãy cẩn thận khi bạn thực hiện các bài tập nâng tạ nặng."
+            },
+            "noi": {
+                "muc_1": "Chúng ta hãy cùng tham gia lớp học để tập yoga.",
+                "muc_2": "Chúng tôi tập thể dục thường xuyên để giữ gìn sức khỏe."
+            },
+            "doc": {
+                "muc_1": "Bạn nên tuân theo một lộ trình tập luyện chuyên nghiệp.",
+                "muc_2": "Xây dựng cơ bắp đòi hỏi một chế độ ăn giàu protein."
+            },
+            "viet": {
+                "muc_1": "Mục tiêu thể hình lớn nhất của tôi là giảm được 5 kg.",
+                "muc_2": "Tôi cảm thấy tràn đầy năng lượng sau bài tập thể dục buổi sáng."
+            }
+        },
+        "bai_4": {
+            "nghe": {
+                "muc_1": "Nghệ sĩ đang làm sạch cây cọ vẽ của mình.",
+                "muc_2": "Bức chân dung này được tạo ra bằng màu dầu."
+            },
+            "noi": {
+                "muc_1": "Tôi sẽ thử vẽ một bức tranh về phong cảnh.",
+                "muc_2": "Tôi thực sự tin rằng nghệ thuật chính là cuộc sống."
+            },
+            "doc": {
+                "muc_1": "Có một buổi triển lãm mới tại phòng trưng bày của bảo tàng.",
+                "muc_2": "Hãy đọc hồ sơ nghệ sĩ trước khi xem các tác phẩm."
+            },
+            "viet": {
+                "muc_1": "Tuổi thơ của tôi đầy rẫy những giấc mơ đầy màu sắc.",
+                "muc_2": "Bức tượng này được coi là một kiệt tác của thế giới."
+            }
+        },
+        "bai_5": {
+            "nghe": {
+                "muc_1": "Tất cả học sinh phải mặc đồng phục học sinh.",
+                "muc_2": "Tôi đang học tập chăm chỉ cho kỳ thi cuối kỳ."
+            },
+            "noi": {
+                "muc_1": "Đã 7 giờ sáng rồi, đến lúc đi học rồi.",
+                "muc_2": "Chúng ta phải học tập chăm chỉ hôm nay vì một ngày mai tốt đẹp hơn."
+            },
+            "doc": {
+                "muc_1": "Hãy đọc sổ tay học sinh để biết các quy định của nhà trường.",
+                "muc_2": "Giáo viên đang chuẩn bị giáo án (kế hoạch bài giảng)."
+            },
+            "viet": {
+                "muc_1": "Hãy viết một bức thư cho người bạn thân nhất của bạn ở trường.",
+                "muc_2": "Mỗi học sinh đều phải tuân theo nội quy lớp học."
+            }
+        },
+        "bai_6": {
+            "nghe": {
+                "muc_1": "Đi theo đường mòn trong rừng để đến được thác nước.",
+                "muc_2": "Thung lũng được bao phủ bởi những loài hoa dại tuyệt đẹp."
+            },
+            "noi": {
+                "muc_1": "Cuối tuần này, chúng ta hãy đi leo núi (hiking).",
+                "muc_2": "Tôi thích hít thở không khí trong lành của vùng núi."
+            },
+            "doc": {
+                "muc_1": "Hãy mang theo hướng dẫn cắm trại này cho chuyến đi của bạn.",
+                "muc_2": "Bạn cần học kỹ năng sinh tồn trong rừng."
+            },
+            "viet": {
+                "muc_1": "Tôi đã kinh ngạc trước cảnh núi non hùng vĩ.",
+                "muc_2": "Chúng tôi đang lên kế hoạch cho một chuyến đi cuối tuần ngắn ngày."
+            }
+        },
+        "bai_7": {
+            "nghe": {
+                "muc_1": "Tôi đã quên bộ sạc laptop ở văn phòng.",
+                "muc_2": "Chuột không dây của tôi đang hết pin."
+            },
+            "noi": {
+                "muc_1": "Tôi đã luyện tập để đánh máy rất nhanh.",
+                "muc_2": "Lập trình viên đang cố gắng sửa lỗi (fix bug)."
+            },
+            "doc": {
+                "muc_1": "Vui lòng đợi bản cập nhật phần mềm mới nhất.",
+                "muc_2": "Kiểm tra thông số phần cứng trước khi mua máy tính."
+            },
+            "viet": {
+                "muc_1": "Bạn cần hiểu tư duy lập trình (coding logic) cơ bản.",
+                "muc_2": "Hãy gọi hỗ trợ kỹ thuật nếu hệ thống bị treo."
+            }
+        },
+        "bai_8": {
+            "nghe": {
+                "muc_1": "Đừng quên đặt bánh kem sinh nhật nhé.",
+                "muc_2": "Căn phòng được trang trí với rất nhiều bóng bay tiệc tùng."
+            },
+            "noi": {
+                "muc_1": "Đến lúc thổi nến rồi.",
+                "muc_2": "Hãy nhắm mắt lại và ước một điều ước."
+            },
+            "doc": {
+                "muc_1": "Tôi đang kiểm tra tên trong danh sách khách mời.",
+                "muc_2": "Chúng ta nên gửi thiệp mời sớm."
+            },
+            "viet": {
+                "muc_1": "Tôi đã nhận được một món quà bất ngờ rất đặc biệt.",
+                "muc_2": "Chúng tôi luôn có một bữa tiệc gia đình lớn vào các ngày Chủ Nhật."
+            }
+        },
+        "bai_9": {
+            "nghe": {
+                "muc_1": "Khu vườn trông thật đẹp dưới ánh trăng.",
+                "muc_2": "Nhìn kìa, tôi thấy một ngôi sao rất sáng."
+            },
+            "noi": {
+                "muc_1": "Sử dụng kính thiên văn để quan sát các hành tinh.",
+                "muc_2": "Thật thú vị khi ngắm nhìn bầu trời đêm."
+            },
+            "doc": {
+                "muc_1": "Tôi thường đọc tin tức thiên văn học trên trang web.",
+                "muc_2": "Trái Đất là một trong những hành tinh trong hệ mặt trời của chúng ta."
+            },
+            "viet": {
+                "muc_1": "Các phi hành gia đang chuẩn bị cho một sứ mệnh không gian.",
+                "muc_2": "Bạn có tin vào sự tồn tại của sự sống ngoài hành tinh không?"
+            }
+        },
+        "bai_10": {
+            "nghe": {
+                "muc_1": "Tôi thích mua rau củ ở chợ nông sản.",
+                "muc_2": "Hãy chọn vài quả cà chua tươi cho món salad."
+            },
+            "noi": {
+                "muc_1": "Hãy đi đến cửa hàng tạp hóa để mua một ít trứng.",
+                "muc_2": "Tôi luôn ưu tiên sử dụng sản phẩm địa phương."
+            },
+            "doc": {
+                "muc_1": "Loại sữa này đến từ một trang trại hữu cơ đã được chứng nhận.",
+                "muc_2": "Vui lòng kiểm tra nhãn giá trước khi thanh toán."
+            },
+            "viet": {
+                "muc_1": "Tôi đang lập danh sách thực phẩm lành mạnh cần mua.",
+                "muc_2": "Tôi muốn trải nghiệm cuộc sống làng quê yên bình."
+            }
+        }
+    }
+}

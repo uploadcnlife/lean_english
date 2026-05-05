@@ -1,0 +1,14 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.3, pytest-9.0.3, pluggy-1.6.0
+rootdir: D:\PythonProject\Test\tests
+collected 7 items
+
+Test_textnhanh.py::TestTongDoc::test_allfile_level_sorting PASSED        [ 14%]
+Test_textnhanh.py::TestTongDoc::test_load_all_structure PASSED           [ 28%]
+Test_textnhanh.py::TestTongDoc::test_search_data_all_files PASSED        [ 42%]
+Test_textnhanh.py::TestTongDoc::test_search_data_list_keys PASSED        [ 57%]
+Test_textnhanh.py::TestTongDoc::test_search_data_list_values PASSED      [ 71%]
+Test_textnhanh.py::TestTongDoc::test_search_data_not_found PASSED        [ 85%]
+Test_textnhanh.py::TestTongDoc::test_search_data_specific_item PASSED    [100%]
+
+============================== 7 passed in 0.10s ==============================

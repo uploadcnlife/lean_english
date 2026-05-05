@@ -1,0 +1,24 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.3, pytest-9.0.3, pluggy-1.6.0
+rootdir: D:\PythonProject\Test\tests
+collected 17 items
+
+Test_khung.py::TestHeThongHocTiengAnh::test_khoi_tao PASSED              [  5%]
+Test_khung.py::TestHeThongHocTiengAnh::test_chuyen_level_hop_le PASSED   [ 11%]
+Test_khung.py::TestHeThongHocTiengAnh::test_chuyen_level_khong_hop_le PASSED [ 17%]
+Test_khung.py::TestHeThongHocTiengAnh::test_lay_bai_hien_tai PASSED      [ 23%]
+Test_khung.py::TestHeThongHocTiengAnh::test_chuyen_bai_tiep_theo PASSED  [ 29%]
+Test_khung.py::TestHeThongHocTiengAnh::test_get_data_goi_mock PASSED     [ 35%]
+Test_khung.py::TestHeThongHocTiengAnh::test_lay_bai_KT_giong_bai_hien_tai PASSED [ 41%]
+Test_khung.py::TestKhungBaiHoc::test_khoi_tao PASSED                     [ 47%]
+Test_khung.py::TestKhungBaiHoc::test_chuyen_muc_tiep_theo PASSED         [ 52%]
+Test_khung.py::TestKhungBaiHoc::test_lay_du_lieu_muc_1 PASSED            [ 58%]
+Test_khung.py::TestKhungBaiHoc::test_lay_du_lieu_muc_1_khong_co_bai PASSED [ 64%]
+Test_khung.py::TestKhungBaiHoc::test_lay_du_lieu_muc_2 PASSED            [ 70%]
+Test_khung.py::TestKhungBaiHoc::test_lay_du_lieuKT PASSED                [ 76%]
+Test_khung.py::TestKhungBaiHoc::test_layhien_tai_kt PASSED               [ 82%]
+Test_khung.py::TestKhungBaiHoc::test_lay_du_lieu_hien_tai PASSED         [ 88%]
+Test_khung.py::test_level_khong_co_bai SKIPPED (D\u1eef li\u1ec7u th\u1eadt c\xf3 \u0111\u1ee7 b...) [ 94%]
+Test_khung.py::test_lay_du_lieu_muc_1_khong_co_dap_an SKIPPED (Code ...) [100%]
+
+======================== 15 passed, 2 skipped in 0.13s ========================
