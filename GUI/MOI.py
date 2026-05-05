@@ -52,8 +52,7 @@ class MainApp:
         user = self.ui_reg.lineEdit.text()
         pwd = self.ui_reg.lineEdit_2.text()
 
-        # Gọi hàm đăng ký từ profile.py (cần chỉnh sửa nhẹ class profile để nhận tham số)
-        # Hoặc viết trực tiếp logic kiểm tra ở đây:
+        
         if any(item['tai_khoan'] == user for item in self.quan_ly.data.values()):
             QMessageBox.warning(self.register_window, "Lỗi", "Tài khoản đã tồn tại!")
         else:
