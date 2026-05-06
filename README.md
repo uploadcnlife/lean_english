@@ -1,4 +1,4 @@
-English Learning Management System Automation Framework
+# English Learning Management System Automation Framework
 
 học tiếng anh theo cấu trúc cấp độ khác nhau.
 
@@ -20,12 +20,12 @@ uv venv .my-env
 
 source .my-env/bin/activate
 
-cài đặt thư viện ứng dụng
+# cài đặt thư viện ứng dụng
 
 pip install -r requirements.txt
 
 
-hình ảnh mô tả
+# hình ảnh mô tả
 
 <img width="751" height="596" alt="image" src="https://github.com/user-attachments/assets/29703f8c-6761-45d2-a32c-aedc63946b0f" />
 
