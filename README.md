@@ -6,27 +6,38 @@ Học tập phân tầng: Phân cấp lộ trình học theo từng cấp độ.
 
 Tối ưu hóa dữ liệu: Sử dụng Python để tự động hóa quy trình xử lý dữ liệu theo cấu trúc thứ bậc.
 
+
+
+## Tính năng
+
+code tự động thêm bài nếu có bài mới
+
+tự động thêm dữ liệu mới mà không cần thiết viết thêm code
+
+## Các Bước Cài Đặt
+
+Tạo và kích hoạt môi trường ảo bằng venv
+
+giúp dự án được chạy độc lập, không ảnh hưởng mã nguồn.
+
 Khả năng tương thích: Tương thích hoàn hảo với Python 3.13+.
 
-## Tạo và kích hoạt môi trường ảo bằng venv hoặc uv
-giúp dụe án được chạy độc lập, khôgn ảnh hưởng mã nguồn.
-
 ### venv
-python -m venv .my-env
+```python -m venv venv```
 
-source .my-env/bin/activate
+Trên Windows:
+```venv\Scripts\activate```
 
+Trên macOS/Linux:
+```source venv/bin/activate```
 
-### uv
-uv venv .my-env
-
-source .my-env/bin/activate
 
 ## cài đặt thư viện ứng dụng
 
 ```pip install -r requirements.txt```
 
-
+## Cách Sử Dụng
+```python main.py```
 
 ## hình ảnh mô tả
 
