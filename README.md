@@ -9,7 +9,7 @@ Tối ưu hóa dữ liệu: Sử dụng Python để tự động hóa quy trìn
 Khả năng tương thích: Tương thích hoàn hảo với Python 3.13+.
 
 ## Tạo và kích hoạt môi trường ảo bằng venv hoặc uv
-một gói Python dựa trên Rust nhanh chóng và trình quản lý dự án.
+giúp dụe án được chạy độc lập, khôgn ảnh hưởng mã nguồn.
 
 ### venv
 python -m venv .my-env
