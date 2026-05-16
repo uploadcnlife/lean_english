@@ -1,7 +1,11 @@
 import sys
 import pytest
-i
 from unittest.mock import Mock, patch, mock_open
+
+from rsc.da_class import (
+    LopKyNang, LopNghe, LopDoc, LopViet, LopNoi,
+    LopKiemTra, Ghichu, NguPhap
+)
 
 # ----------------------------------------------------------------------
 # Create a dummy KhungBaiHoc class (replaces the missing module)
@@ -60,12 +64,6 @@ sys.modules['khung'] = Mock()
 sys.modules['khung'].KhungBaiHoc = DummyKhungBaiHoc
 sys.modules['textnhanh'] = Mock()
 sys.modules['textnhanh'].dot = Mock()
-
-# Now import the module under test
-from rsc.da_class import (
-    LopKyNang, LopNghe, LopDoc, LopViet, LopNoi,
-    LopKiemTra, Ghichu, NguPhap
-)
 
 # ----------------------------------------------------------------------
 # Fixtures
