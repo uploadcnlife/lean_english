@@ -1,5 +1,5 @@
-from rsc.khung import KhungBaiHoc
-from rsc.textnhanh import dot
+from khung import KhungBaiHoc
+from textnhanh import dot
 import random
 import speech_recognition as sr
 import datetime
