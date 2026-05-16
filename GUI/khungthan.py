@@ -904,7 +904,7 @@ class Ui_khungchung(object):
         self.tbao_kt_2.setPlaceholderText(_translate("khungchung", "thông báo đáp án"))
         self.label_10.setText(_translate("khungchung", "thông báo"))
         self.bang_ndkt.setTabText(self.bang_ndkt.indexOf(self.tab_3), _translate("khungchung", "kiểm tra"))
-import GUI.GHI_rc as GHI_rc
+import GHI_rc
 
 
 
