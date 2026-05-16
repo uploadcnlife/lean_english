@@ -1,4 +1,4 @@
-from rsc.textnhanh import search_data, allfile_level
+from textnhanh import search_data, allfile_level
 import random
 
 
