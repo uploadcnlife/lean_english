@@ -1,4 +1,10 @@
 import sys
+import os
+current_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(current_dir)
+sys.path.append(os.path.join(current_dir, 'GUI'))
+sys.path.append(os.path.join(current_dir, 'rsc'))
+
 from PyQt5.QtWidgets import QApplication, QMainWindow, QMessageBox, QListView
 from PyQt5.QtCore import QStringListModel, Qt
 from PyQt5.QtWidgets import QPushButton
@@ -6,7 +12,7 @@ from GUI.khungthan import Ui_khungchung
 from rsc.da_class import LopNghe, LopNoi, LopDoc, LopViet, LopKiemTra, NguPhap
 from rsc.khung import KhungBaiHoc
 import subprocess
-import os
+
 
 
 class MainApp(QMainWindow, Ui_khungchung):
@@ -436,16 +442,45 @@ class MainApp(QMainWindow, Ui_khungchung):
         self.listView_5.setModel(model_content)
 
     def show_login_ui(self):
+        try:
 
-        current_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-        moi_path = os.path.join(current_dir,"PythonProject","GUI", "MOI.py")
-        if os.path.exists(moi_path):
-            try:
-                subprocess.Popen([sys.executable, moi_path])
-            except Exception as e:
-                QMessageBox.warning(self, "Lỗi", f"Không thể chạy MOI.py: {str(e)}")
-        else:
-            QMessageBox.warning(self, "Lỗi", f"Không tìm thấy file MOI.py tại {moi_path}")
+            current_path = Path(__file__).resolve()
+            project_source_dir = None
+
+ 
+            for parent in current_path.parents:
+                if (parent / "GUI").exists() and (parent / "rsc").exists():
+                    project_source_dir = parent
+                    break
+
+ 
+            if not project_source_dir:
+                project_source_dir = current_path.parent
+
+
+            moi_path_obj = project_source_dir / "GUI" / "MOI.py"
+
+            if moi_path_obj.exists():
+                moi_path = os.fspath(moi_path_obj)
+                source_dir_str = os.fspath(project_source_dir)
+
+
+                env = os.environ.copy()
+                if "PYTHONPATH" in env:
+                    env["PYTHONPATH"] = source_dir_str + os.pathsep + env["PYTHONPATH"]
+                else:
+                    env["PYTHONPATH"] = source_dir_str
+
+                subprocess.Popen(
+                    ["cmd.exe", "/k", sys.executable, moi_path],
+                    env=env
+                )
+            else:
+                QMessageBox.warning(self, "Lỗi Path",
+                                    f"Không tìm thấy file MOI.py tại đường dẫn dự kiến:\n{moi_path_obj}")
+
+        except Exception as e:
+            QMessageBox.warning(self, "Lỗi Hệ Thống", f"Gặp lỗi khi thực thi: {str(e)}")
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
