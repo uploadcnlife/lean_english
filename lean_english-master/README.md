@@ -1,4 +1,4 @@
-# English Learning System Automation Framework
+# English speaking System Automation Framework
 
 Một framework tự động hóa hệ thống quản lý học tập tiếng Anh với các đặc điểm:
 
