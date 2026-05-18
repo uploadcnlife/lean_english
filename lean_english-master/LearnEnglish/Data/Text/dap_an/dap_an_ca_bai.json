@@ -1,0 +1,548 @@
+{
+    "A": {
+        "bai_1": {
+            "nghe": {
+                "muc_1": "Do you prefer to study in the morning or in the afternoon",
+                "muc_2": "I think jobs in tech and finance usually make the most money"
+            },
+            "noi": {
+                "muc_1": "frankly speaking i chose this job because the salary was great",
+                "muc_2": "automation is great"
+            },
+            "doc": {
+                "muc_1": "Tôi thích đọc sách vào thời gian rảnh",
+                "muc_2": "Tôi thường thức dậy lúc 6:30"
+            },
+            "viet": {
+                "muc_1": "unit testing",
+                "muc_2": "software life cycle"
+            }
+        },
+        "bai_2": {
+            "nghe": {
+                "muc_1": "red",
+                "muc_2": "blue sky"
+            },
+            "noi": {
+                "muc_1": "good morning teacher",
+                "muc_2": "have a nice day"
+            },
+            "doc": {
+                "muc_1": "Đây là con chó của tôi",
+                "muc_2": "climate change"
+            },
+            "viet": {
+                "muc_1": "summer vacation",
+                "muc_2": "outdoor activity"
+            }
+        },
+        "bai_3": {
+            "nghe": {
+                "muc_1": "coffee break",
+                "muc_2": "sugar free"
+            },
+            "noi": {
+                "muc_1": "i want a latte",
+                "muc_2": "take away please"
+            },
+            "doc": {
+                "muc_1": "drink menu",
+                "muc_2": "price list"
+            },
+            "viet": {
+                "muc_1": "customer order",
+                "muc_2": "payment method"
+            }
+        },
+        "bai_4": {
+            "nghe": {
+                "muc_1": "airport gate",
+                "muc_2": "flight ticket"
+            },
+            "noi": {
+                "muc_1": "where is my luggage",
+                "muc_2": "passport please"
+            },
+            "doc": {
+                "muc_1": "flight schedule",
+                "muc_2": "boarding pass"
+            },
+            "viet": {
+                "muc_1": "travel plan",
+                "muc_2": "hotel booking"
+            }
+        },
+        "bai_5": {
+            "nghe": {
+                "muc_1": "job interview",
+                "muc_2": "work experience"
+            },
+            "noi": {
+                "muc_1": "tell me about yourself",
+                "muc_2": "my strength is python"
+            },
+            "doc": {
+                "muc_1": "job description",
+                "muc_2": "company profile"
+            },
+            "viet": {
+                "muc_1": "cover letter",
+                "muc_2": "curriculum vitae"
+            }
+        },
+        "bai_6": {
+            "nghe": {
+                "muc_1": "music festival",
+                "muc_2": "guitar hero"
+            },
+            "noi": {
+                "muc_1": "i like pop music",
+                "muc_2": "play the drum"
+            },
+            "doc": {
+                "muc_1": "artist biography",
+                "muc_2": "top hits chart"
+            },
+            "viet": {
+                "muc_1": "concert review",
+                "muc_2": "musical instrument"
+            }
+        },
+        "bai_7": {
+            "nghe": {
+                "muc_1": "green forest",
+                "muc_2": "clean energy"
+            },
+            "noi": {
+                "muc_1": "save the earth",
+                "muc_2": "plant more trees"
+            },
+            "doc": {
+                "muc_1": "global warming",
+                "muc_2": "recycling process"
+            },
+            "viet": {
+                "muc_1": "nature protection",
+                "muc_2": "environmental law"
+            }
+        },
+        "bai_8": {
+            "nghe": {
+                "muc_1": "football match",
+                "muc_2": "world cup"
+            },
+            "noi": {
+                "muc_1": "who is the winner",
+                "muc_2": "keep it up"
+            },
+            "doc": {
+                "muc_1": "sport news",
+                "muc_2": "player statistics"
+            },
+            "viet": {
+                "muc_1": "workout routine",
+                "muc_2": "healthy lifestyle"
+            }
+        },
+        "bai_9": {
+            "nghe": {
+                "muc_1": "online learning",
+                "muc_2": "zoom meeting"
+            },
+            "noi": {
+                "muc_1": "turn on the mic",
+                "muc_2": "share your screen"
+            },
+            "doc": {
+                "muc_1": "e-learning platform",
+                "muc_2": "digital textbook"
+            },
+            "viet": {
+                "muc_1": "group discussion",
+                "muc_2": "final project"
+            }
+        },
+        "bai_10": {
+            "nghe": {
+                "muc_1": "graduation ceremony",
+                "muc_2": "future goal"
+            },
+            "noi": {
+                "muc_1": "i passed the exam",
+                "muc_2": "dream big stay humble"
+            },
+            "doc": {
+                "muc_1": "university degree",
+                "muc_2": "career path"
+            },
+            "viet": {
+                "muc_1": "achievement report",
+                "muc_2": "success story"
+            }
+        }
+    },
+    "B": {
+        "bai_1": {
+            "nghe": {
+                "muc_1": "read notes",
+                "muc_2": "golden river"
+            },
+            "noi": {
+                "muc_1": "i love sunset",
+                "muc_2": "winter is coming"
+            },
+            "doc": {
+                "muc_1": "short story",
+                "muc_2": "daily news"
+            },
+            "viet": {
+                "muc_1": "dear my friend",
+                "muc_2": "my favorite hobby"
+            }
+        },
+        "bai_2": {
+            "nghe": {
+                "muc_1": "short term memory",
+                "muc_2": "deep sea"
+            },
+            "noi": {
+                "muc_1": "let's go swimming",
+                "muc_2": "look at the fish"
+            },
+            "doc": {
+                "muc_1": "marine life",
+                "muc_2": "coral reef"
+            },
+            "viet": {
+                "muc_1": "summer holiday",
+                "muc_2": "island trip"
+            }
+        },
+        "bai_3": {
+            "nghe": {
+                "muc_1": "fast train",
+                "muc_2": "bus stop"
+            },
+            "noi": {
+                "muc_1": "where is the station",
+                "muc_2": "buy a ticket"
+            },
+            "doc": {
+                "muc_1": "city map",
+                "muc_2": "time table"
+            },
+            "viet": {
+                "muc_1": "my journey",
+                "muc_2": "public transport"
+            }
+        },
+        "bai_4": {
+            "nghe": {
+                "muc_1": "red apple",
+                "muc_2": "sweet grape"
+            },
+            "noi": {
+                "muc_1": "i like fruit",
+                "muc_2": "fresh orange juice"
+            },
+            "doc": {
+                "muc_1": "healthy menu",
+                "muc_2": "vitamin source"
+            },
+            "viet": {
+                "muc_1": "grocery list",
+                "muc_2": "farm market"
+            }
+        },
+        "bai_5": {
+            "nghe": {
+                "muc_1": "smart robot",
+                "muc_2": "space ship"
+            },
+            "noi": {
+                "muc_1": "talk to machine",
+                "muc_2": "flying to mars"
+            },
+            "doc": {
+                "muc_1": "science fiction",
+                "muc_2": "future tech"
+            },
+            "viet": {
+                "muc_1": "new invention",
+                "muc_2": "galaxy travel"
+            }
+        },
+        "bai_6": {
+            "nghe": {
+                "muc_1": "little bird",
+                "muc_2": "cat and dog"
+            },
+            "noi": {
+                "muc_1": "feed my pet",
+                "muc_2": "so cute animal"
+            },
+            "doc": {
+                "muc_1": "pet care",
+                "muc_2": "animal world"
+            },
+            "viet": {
+                "muc_1": "my puppy",
+                "muc_2": "zoo visit"
+            }
+        },
+        "bai_7": {
+            "nghe": {
+                "muc_1": "piano lesson",
+                "muc_2": "loud drum"
+            },
+            "noi": {
+                "muc_1": "play the guitar",
+                "muc_2": "sing a song"
+            },
+            "doc": {
+                "muc_1": "music note",
+                "muc_2": "famous band"
+            },
+            "viet": {
+                "muc_1": "rock concert",
+                "muc_2": "slow melody"
+            }
+        },
+        "bai_8": {
+            "nghe": {
+                "muc_1": "hot soup",
+                "muc_2": "spicy noodle"
+            },
+            "noi": {
+                "muc_1": "delicious meal",
+                "muc_2": "hungry now"
+            },
+            "doc": {
+                "muc_1": "food recipe",
+                "muc_2": "restaurant menu"
+            },
+            "viet": {
+                "muc_1": "dinner time",
+                "muc_2": "cooking class"
+            }
+        },
+        "bai_9": {
+            "nghe": {
+                "muc_1": "old castle",
+                "muc_2": "king and queen"
+            },
+            "noi": {
+                "muc_1": "long time ago",
+                "muc_2": "tell a legend"
+            },
+            "doc": {
+                "muc_1": "history book",
+                "muc_2": "ancient wall"
+            },
+            "viet": {
+                "muc_1": "mystery story",
+                "muc_2": "time machine"
+            }
+        },
+        "bai_10": {
+            "nghe": {
+                "muc_1": "big city",
+                "muc_2": "tall building"
+            },
+            "noi": {
+                "muc_1": "heavy traffic",
+                "muc_2": "night life"
+            },
+            "doc": {
+                "muc_1": "street food",
+                "muc_2": "shopping mall"
+            },
+            "viet": {
+                "muc_1": "town center",
+                "muc_2": "busy people"
+            }
+        }
+    },
+    "C": {
+        "bai_1": {
+            "nghe": {
+                "muc_1": "rainy midnight",
+                "muc_2": "thunder sound"
+            },
+            "noi": {
+                "muc_1": "close the window",
+                "muc_2": "stay at home"
+            },
+            "doc": {
+                "muc_1": "weather alert",
+                "muc_2": "storm safety"
+            },
+            "viet": {
+                "muc_1": "rainy day memory",
+                "muc_2": "cozy atmosphere"
+            }
+        },
+        "bai_2": {
+            "nghe": {
+                "muc_1": "library card",
+                "muc_2": "silent zone"
+            },
+            "noi": {
+                "muc_1": "find a book",
+                "muc_2": "borrow for a week"
+            },
+            "doc": {
+                "muc_1": "literature classic",
+                "muc_2": "science journal"
+            },
+            "viet": {
+                "muc_1": "favorite author",
+                "muc_2": "reading habit"
+            }
+        },
+        "bai_3": {
+            "nghe": {
+                "muc_1": "gym member",
+                "muc_2": "heavy lifting"
+            },
+            "noi": {
+                "muc_1": "do some yoga",
+                "muc_2": "keep our health"
+            },
+            "doc": {
+                "muc_1": "workout routine",
+                "muc_2": "protein diet"
+            },
+            "viet": {
+                "muc_1": "fitness goal",
+                "muc_2": "morning exercise"
+            }
+        },
+        "bai_4": {
+            "nghe": {
+                "muc_1": "painting brush",
+                "muc_2": "oil color"
+            },
+            "noi": {
+                "muc_1": "draw a picture",
+                "muc_2": "art is life"
+            },
+            "doc": {
+                "muc_1": "museum gallery",
+                "muc_2": "artist profile"
+            },
+            "viet": {
+                "muc_1": "colorful dream",
+                "muc_2": "master piece"
+            }
+        },
+        "bai_5": {
+            "nghe": {
+                "muc_1": "school uniform",
+                "muc_2": "final term"
+            },
+            "noi": {
+                "muc_1": "go to class",
+                "muc_2": "study hard today"
+            },
+            "doc": {
+                "muc_1": "student handbook",
+                "muc_2": "lesson plan"
+            },
+            "viet": {
+                "muc_1": "best friend",
+                "muc_2": "classroom rule"
+            }
+        },
+        "bai_6": {
+            "nghe": {
+                "muc_1": "forest trail",
+                "muc_2": "wild flowers"
+            },
+            "noi": {
+                "muc_1": "go for hiking",
+                "muc_2": "fresh mountain air"
+            },
+            "doc": {
+                "muc_1": "camping guide",
+                "muc_2": "survival skill"
+            },
+            "viet": {
+                "muc_1": "mountain view",
+                "muc_2": "weekend trip"
+            }
+        },
+        "bai_7": {
+            "nghe": {
+                "muc_1": "laptop charger",
+                "muc_2": "wireless mouse"
+            },
+            "noi": {
+                "muc_1": "type very fast",
+                "muc_2": "fix the bug"
+            },
+            "doc": {
+                "muc_1": "software update",
+                "muc_2": "hardware spec"
+            },
+            "viet": {
+                "muc_1": "coding logic",
+                "muc_2": "tech support"
+            }
+        },
+        "bai_8": {
+            "nghe": {
+                "muc_1": "birthday cake",
+                "muc_2": "party balloon"
+            },
+            "noi": {
+                "muc_1": "blow the candle",
+                "muc_2": "make a wish"
+            },
+            "doc": {
+                "muc_1": "guest list",
+                "muc_2": "invitation card"
+            },
+            "viet": {
+                "muc_1": "surprise gift",
+                "muc_2": "family party"
+            }
+        },
+        "bai_9": {
+            "nghe": {
+                "muc_1": "moon light",
+                "muc_2": "bright star"
+            },
+            "noi": {
+                "muc_1": "look at planets",
+                "muc_2": "sky at night"
+            },
+            "doc": {
+                "muc_1": "astronomy news",
+                "muc_2": "solar system"
+            },
+            "viet": {
+                "muc_1": "space mission",
+                "muc_2": "alien life"
+            }
+        },
+        "bai_10": {
+            "nghe": {
+                "muc_1": "farmers market",
+                "muc_2": "fresh tomato"
+            },
+            "noi": {
+                "muc_1": "buy some eggs",
+                "muc_2": "local product"
+            },
+            "doc": {
+                "muc_1": "organic farm",
+                "muc_2": "price tag"
+            },
+            "viet": {
+                "muc_1": "healthy grocery",
+                "muc_2": "village life"
+            }
+        }
+    }
+}

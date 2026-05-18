@@ -1,0 +1,188 @@
+{
+    "A": {
+        "bai_1": {
+            "nghe": { "muc_1": "What is the name of this course for beginners?" },
+            "noi": { "muc_1": "Introduce yourself using the name Alex." },
+            "doc": { "muc_1": "What are the first things you learn about letters and sounds?" },
+            "viet": { "muc_1": "Please fill in your personal information." }
+        },
+        "bai_2": {
+            "nghe": { "muc_1": "Can you count from 1 to 10?" },
+            "noi": { "muc_1": "How many apples do you have in your hand?" },
+            "doc": { "muc_1": "Where do you see numbers in your everyday routine?" },
+            "viet": { "muc_1": "Which numbers do you like the most? Write them down." }
+        },
+        "bai_3": {
+            "nghe": { "muc_1": "What is the topic of the audio about relatives?" },
+            "noi": { "muc_1": "Point to your mom and say a simple sentence." },
+            "doc": { "muc_1": "What kind of story describes a joyful household?" },
+            "viet": { "muc_1": "Tell me about your male sibling." }
+        },
+        "bai_4": {
+            "nghe": { "muc_1": "What do people usually do every morning?" },
+            "noi": { "muc_1": "What is the first thing you do in the bathroom?" },
+            "doc": { "muc_1": "What is a typical day for a student like?" },
+            "viet": { "muc_1": "List the food you eat for your first meal of the day." }
+        },
+        "bai_5": {
+            "nghe": { "muc_1": "What are some popular things to eat and drink?" },
+            "noi": { "muc_1": "What is your favorite fruit drink?" },
+            "doc": { "muc_1": "What are some examples of light, good-for-you snacks?" },
+            "viet": { "muc_1": "What do you usually eat at noon?" }
+        },
+        "bai_6": {
+            "nghe": { "muc_1": "What can you see in the world around you?" },
+            "noi": { "muc_1": "What color is the sky today?" },
+            "doc": { "muc_1": "What are the names of the seven colors in the sky?" },
+            "viet": { "muc_1": "What color do you prefer over all others?" }
+        },
+        "bai_7": {
+            "nghe": { "muc_1": "What do people wear when it is cold?" },
+            "noi": { "muc_1": "What item of clothing keeps you warm?" },
+            "doc": { "muc_1": "What do people wear when it is hot and sunny?" },
+            "viet": { "muc_1": "What did you just buy for your feet?" }
+        },
+        "bai_8": {
+            "nghe": { "muc_1": "Where can you see wild animals?" },
+            "noi": { "muc_1": "Describe the king of the jungle." },
+            "doc": { "muc_1": "Which animals live with people in their houses?" },
+            "viet": { "muc_1": "What is your favorite small, furry pet?" }
+        },
+        "bai_9": {
+            "nghe": { "muc_1": "What are the two main topics about nature?" },
+            "noi": { "muc_1": "What is the weather like when the sun is out?" },
+            "doc": { "muc_1": "What do people do when there is snow?" },
+            "viet": { "muc_1": "What do you call the time of year when it rains a lot?" }
+        },
+        "bai_10": {
+            "nghe": { "muc_1": "What do people do for enjoyment in their free time?" },
+            "noi": { "muc_1": "What water sport do you like?" },
+            "doc": { "muc_1": "What is the most popular sport with a ball?" },
+            "viet": { "muc_1": "What musical instrument are you learning?" }
+        }
+    },
+    "B": {
+        "bai_1": {
+            "nghe": { "muc_1": "What is the main topic of going to another country?" },
+            "noi": { "muc_1": "How do you request a place to stay?" },
+            "doc": { "muc_1": "What are the steps you follow at the terminal?" },
+            "viet": { "muc_1": "Where would you go if you had no limits?" }
+        },
+        "bai_2": {
+            "nghe": { "muc_1": "What is the best advice for finding a career?" },
+            "noi": { "muc_1": "How do you prepare for a meeting with a boss?" },
+            "doc": { "muc_1": "How do you create a document of your work history?" },
+            "viet": { "muc_1": "How do you write a professional message to a company?" }
+        },
+        "bai_3": {
+            "nghe": { "muc_1": "Why is it important to look after our planet?" },
+            "noi": { "muc_1": "How can we use less waste in our daily lives?" },
+            "doc": { "muc_1": "What is the latest information on the earth's temperature?" },
+            "viet": { "muc_1": "How do you process waste at your house?" }
+        },
+        "bai_4": {
+            "nghe": { "muc_1": "What is the key to a healthy body?" },
+            "noi": { "muc_1": "What are some good ways to eat better?" },
+            "doc": { "muc_1": "Why is it important to take care of your mind?" },
+            "viet": { "muc_1": "What exercises will you do this week?" }
+        },
+        "bai_5": {
+            "nghe": { "muc_1": "What are the latest inventions?" },
+            "noi": { "muc_1": "What do we use mobile devices for?" },
+            "doc": { "muc_1": "What is the current period of computer intelligence called?" },
+            "viet": { "muc_1": "Write an article about a new device." }
+        },
+        "bai_6": {
+            "nghe": { "muc_1": "What are some special local events?" },
+            "noi": { "muc_1": "What do people eat during celebrations?" },
+            "doc": { "muc_1": "What is the value of old traditions?" },
+            "viet": { "muc_1": "Write about a special day in your country." }
+        },
+        "bai_7": {
+            "nghe": { "muc_1": "How is the learning structure organized?" },
+            "noi": { "muc_1": "How do you pick the right college?" },
+            "doc": { "muc_1": "How do you get financial help for school?" },
+            "viet": { "muc_1": "Why do you want to keep learning?" }
+        },
+        "bai_8": {
+            "nghe": { "muc_1": "How do people move around in big cities?" },
+            "noi": { "muc_1": "What is it like to use the underground train?" },
+            "doc": { "muc_1": "What happens when there are too many cars?" },
+            "viet": { "muc_1": "How can we stay safe on the streets?" }
+        },
+        "bai_9": {
+            "nghe": { "muc_1": "How do people buy things today?" },
+            "noi": { "muc_1": "Is it better to buy in a store or on a website?" },
+            "doc": { "muc_1": "What should a company do for its buyers?" },
+            "viet": { "muc_1": "What do you write when a product is broken?" }
+        },
+        "bai_10": {
+            "nghe": { "muc_1": "How has the internet changed our friendships?" },
+            "noi": { "muc_1": "How do you talk to people far away?" },
+            "doc": { "muc_1": "How do you keep your data safe on the web?" },
+            "viet": { "muc_1": "How do you start a video diary?" }
+        }
+    },
+    "C": {
+        "bai_1": {
+            "nghe": { "muc_1": "What are the major trends in world finance?" },
+            "noi": { "muc_1": "How do you evaluate current trading patterns?" },
+            "doc": { "muc_1": "What happened during the last big market drop?" },
+            "viet": { "muc_1": "Summarize the current state of the world economy." }
+        },
+        "bai_2": {
+            "nghe": { "muc_1": "What are the fundamental questions of human existence?" },
+            "noi": { "muc_1": "How do you choose between right and wrong?" },
+            "doc": { "muc_1": "What is the belief that individuals create their own meaning?" },
+            "viet": { "muc_1": "Write a critical review of a major idea." }
+        },
+        "bai_3": {
+            "nghe": { "muc_1": "What is the latest discovery in biology?" },
+            "noi": { "muc_1": "Should we change the DNA of living things?" },
+            "doc": { "muc_1": "Where do doctors publish their new findings?" },
+            "viet": { "muc_1": "Write a formal paper on a science experiment." }
+        },
+        "bai_4": {
+            "nghe": { "muc_1": "How do different nations work together legally?" },
+            "noi": { "muc_1": "What happens inside a room of justice?" },
+            "doc": { "muc_1": "How are new rules made in a society?" },
+            "viet": { "muc_1": "Write a summary of a new law proposal." }
+        },
+        "bai_5": {
+            "nghe": { "muc_1": "How are different countries governed?" },
+            "noi": { "muc_1": "How do leaders argue their points in public?" },
+            "doc": { "muc_1": "Why do people choose to vote for certain leaders?" },
+            "viet": { "muc_1": "Write a long paper on a political topic." }
+        },
+        "bai_6": {
+            "nghe": { "muc_1": "What makes a book a timeless masterpiece?" },
+            "noi": { "muc_1": "How do you explain the meaning of a poem?" },
+            "doc": { "muc_1": "What tools do authors use to tell stories?" },
+            "viet": { "muc_1": "Write a detailed description of a famous writer." }
+        },
+        "bai_7": {
+            "nghe": { "muc_1": "Why do people act the way they do?" },
+            "noi": { "muc_1": "How can we change the way we think?" },
+            "doc": { "muc_1": "How does the physical brain control our actions?" },
+            "viet": { "muc_1": "Write a deep analysis of a person's behavior." }
+        },
+        "bai_8": {
+            "nghe": { "muc_1": "How are modern buildings designed?" },
+            "noi": { "muc_1": "How can we build cities that last forever?" },
+            "doc": { "muc_1": "What are the basic systems a city needs to run?" },
+            "viet": { "muc_1": "Write a plan for a new neighborhood." }
+        },
+        "bai_9": {
+            "nghe": { "muc_1": "How has art changed over thousands of years?" },
+            "noi": { "muc_1": "What can you see in a gallery today?" },
+            "doc": { "muc_1": "What are the different styles of painting and sculpture?" },
+            "viet": { "muc_1": "Write a review of a creative display." }
+        },
+        "bai_10": {
+            "nghe": { "muc_1": "What will the world look like in 100 years?" },
+            "noi": { "muc_1": "How will extremely fast computers change our lives?" },
+            "doc": { "muc_1": "Can humans live on other planets?" },
+            "viet": { "muc_1": "Write your final paper on a futuristic topic." }
+        }
+    }
+}
